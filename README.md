@@ -8,6 +8,8 @@
 
 3. Parágrafos com destaque
 
+4. Criação de hyperlinks
+
 ## Headers
 
 Teste
@@ -29,3 +31,4 @@ Teste
 **negrito**
 
 ***negrito/italico***
+
