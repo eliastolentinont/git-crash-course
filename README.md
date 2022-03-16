@@ -10,6 +10,8 @@
 
 4. Criação de hyperlinks
 
+5. Criando snippets de código
+
 ## Headers
 
 Teste
