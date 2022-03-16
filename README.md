@@ -4,6 +4,10 @@
 
 1. Headers
 
+2. Itálicos, Negritos e Negritos Itálicos
+
+3. Parágrafos com destaque
+
 ## Headers
 
 Teste
@@ -19,3 +23,9 @@ Teste
 ##### h5
 
 ###### h6
+
+*italico*
+
+**negrito**
+
+***negrito/italico***
